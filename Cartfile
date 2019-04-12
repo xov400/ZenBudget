@@ -1,0 +1,10 @@
+binary "https://building42.github.io/Specs/Carthage/iOS/Fabric.json"
+binary "https://building42.github.io/Specs/Carthage/iOS/Crashlytics.json"
+
+github "Alamofire/Alamofire"
+github "Otbivnoe/Framezilla"
+github "evgenyneu/keychain-swift"
+github "malcommac/SwiftDate"
+github "DmitryFrishbuter/CollectionViewTools"
+github "AssistoLab/DropDown"
+github "jdg/MBProgressHUD" ~> 1.1.0

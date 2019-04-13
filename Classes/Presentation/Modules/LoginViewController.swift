@@ -144,10 +144,8 @@ final class LoginViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = UIColor.sea
         #if DEBUG
-//            mailTextField.text = "test04@email.com"
-//            passwordTextField.text = "secret55"
-        mailTextField.text = "test88@email.com"
-        passwordTextField.text = "secret55"
+            mailTextField.text = "testlex@email.com"
+            passwordTextField.text = "secret55"
         #endif
         scrollView.addSubview(forgotPasswordButton)
         scrollView.addSubview(registrationButton)

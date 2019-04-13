@@ -52,7 +52,7 @@ final class OperationCollectionViewCellItem: CollectionViewCellItem {
         costAttributedString.append(currencyAttributedString)
 
         cell.costLabel.attributedText = costAttributedString
-        
+
         cell.setNeedsLayout()
         cell.layoutIfNeeded()
     }
